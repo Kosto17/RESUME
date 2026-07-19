@@ -25,7 +25,7 @@ A personal resume website built using HTML5 and CSS.
 
 👨‍💻 Author
 
-Latesh Padaliya
+Krish latwal
 
 🎓 B.Tech Computer Science Engineering Student
 
@@ -33,7 +33,7 @@ Latesh Padaliya
 
 GitHub: https://github.com/kosto17
 
-LinkedIn: https://www.linkedin.com/in/krish-latwal-18bba5375
+LinkedIn: https://www.linkedin.com/in/krish-latwal
 
 ⭐ Support
 If you like this project, consider giving it a ⭐ on GitHub.
